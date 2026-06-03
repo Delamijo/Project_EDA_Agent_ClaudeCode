@@ -28,5 +28,8 @@ print(df.dtypes)
 - Spaltenweise lesen wenn nur Teilmenge benötigt: `columns=['a','b']`
 - `pyarrow` bevorzugen gegenüber `fastparquet`
 
+## Verbotene Muster:
+- Dateiinhalte niemals als String im Code nachbauen, immer direkt einlesen
+
 ## Selbstverbesserung
 Neue Parquet-Eigenheiten hier ergänzen.

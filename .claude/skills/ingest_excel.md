@@ -27,5 +27,8 @@ print(df.dtypes)
 - `header=1` wenn Spaltenköpfe nicht in Zeile 1 sind
 - `skiprows=N` für Dateien mit Metadaten am Anfang
 
+## Verbotene Muster:
+- Dateiinhalte niemals als String im Code nachbauen, immer direkt einlesen
+
 ## Selbstverbesserung
 Neue Excel-Eigenheiten hier ergänzen.
