@@ -52,9 +52,7 @@ cd eda_agent
 Then prompt Claude Code naturally:
 
 ```
-"Load example.csv and run a full EDA"
-"Check for missing values and optimize memory"
-"Summarize findings and update CLAUDE.md"
+"Analysiere und optimiere [Dataset path]"
 ```
 
 ## Standard Workflow
