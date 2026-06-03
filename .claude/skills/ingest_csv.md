@@ -22,5 +22,8 @@ print(df.dtypes)
 - Encoding-Fehler: `encoding='utf-8'` oder `encoding='latin-1'` probieren
 - Trennzeichen prüfen: `sep=';'` für deutsche CSVs
 
+## Verbotene Muster:
+- Dateiinhalte niemals als String im Code nachbauen, immer direkt einlesen
+
 ## Selbstverbesserung
 Neue Encoding- oder Trennzeichen-Probleme hier ergänzen.
