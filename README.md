@@ -88,4 +88,6 @@ Claude Code appends new patterns, edge cases, and fixes to the error log in `CLA
 MIT
 
 ## Future Plans
+
 - Integrate basic Data Visualization
+- Cleaning Agent working based on the eda_report and its recommendations
